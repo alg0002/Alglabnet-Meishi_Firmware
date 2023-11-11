@@ -1,0 +1,11 @@
+{
+	"name": "Alglabnet-Meishi",
+	"vendorId": "0xA160",
+	"productId": "0x0702",
+	"matrix": { "rows": 1, "cols": 4 },
+	"layouts": {
+		"keymap": [
+			["0,0","0,1","0,2","0,3"]
+		]
+	}
+}
